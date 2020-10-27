@@ -1,4 +1,4 @@
-#include <EnableInterrupt.h>
+#include <EnableInterrupt.h> // library required to enable interrupts on more pins on arduino
 
 #define encoderX1 2
 #define encoderX2 3
